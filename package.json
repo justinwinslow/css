@@ -1,7 +1,7 @@
 {
   "name": "css",
   "version": "0.0.1",
-  "description": "Plugin to add modular stylesheets as dependencies",
+  "description": "Plugin for Require.js to add modular stylesheets as dependencies.",
   "categories": [
     "Loader plugins"
   ],

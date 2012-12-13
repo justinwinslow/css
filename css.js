@@ -27,7 +27,7 @@ define(['text'], {
             }
 
             //Tell require the module is done loading
-            load();
+            load(css);
         });
     }
 });
