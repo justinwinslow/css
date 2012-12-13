@@ -1,5 +1,5 @@
-css
-===
+css.js
+======
 
 Plugin for Require.js to add modular stylesheets as dependencies.
 
