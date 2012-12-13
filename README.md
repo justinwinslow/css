@@ -8,8 +8,6 @@ This plugin uses the text.js plugin which should be aliased in Require to "text"
 
 #### Example
 
-define(['css!path/to/my.css'], function(css){\n
-	//Be awesome.\n
-});
+define(['css!path/to/my.css'], function(css){ //Be awesome. });
 
 Note: As of now the passed argument from the css plugin is just the stringified contents of the css file. This isn't really of any use in your modules but you can assign the argument slot a name - like the example above - for clarity.
