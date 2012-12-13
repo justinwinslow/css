@@ -8,7 +8,8 @@ This plugin uses the text.js plugin which should be aliased in Require to "text"
 
 #### Example
 
-define([css!path/to/my.css], function(css){
+define(['css!path/to/my.css'], function(css){
+
 	//Be awesome.	
 });
 
