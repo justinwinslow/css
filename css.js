@@ -1,5 +1,5 @@
 /**
- * @license RequireJS css 0.1 - Justin Winslow
+ * @license RequireJS css 0.1.1 - Justin Winslow
  * Available via the MIT or new BSD license.
  */
 
