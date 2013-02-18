@@ -24,6 +24,9 @@
       "url": "http://opensource.org/licenses/BSD-3-Clause"
     }
   ],
+  "dependencies": {
+    "text": null
+  },
   "jam": {
     "dependencies": {
       "text": null
